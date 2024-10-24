@@ -110,8 +110,7 @@ section.hero {
             z-index: 0;
             opacity: 0;
             transform: translateX(400%);
-            animation: slideIn 2s 800ms ease forwards, 
-            appear 100ms 800ms ease forwards;
+            animation: slideIn 2s 800ms ease forwards, appear 100ms 800ms ease forwards;
         }
 
         & img[src*='stars-2'] {
@@ -125,19 +124,17 @@ section.hero {
 }
 
 @keyframes slideIn {
-
-    50%{
+    50% {
         transform: translateX(-20px);
     }
 
-    100%{
+    100% {
         transform: translateX(0);
-
     }
 }
 
 @keyframes appear {
-    to{
+    to {
         opacity: 1;
     }
 }
@@ -208,5 +205,28 @@ section.hero {
 
     100% {
         transform: translateY(-15rem);
+    }
+}
+
+
+@media (width <= 450px) {
+    & img[src*='stars-2'] {
+        bottom: 30% !important;
+    }
+}
+
+@media (width <= 30em) {
+    & img[src*='stars-1'] {
+        top: 15% !important;
+    }
+}
+
+@media (width <= 70em) {
+    section.hero {
+        flex-direction: column-reverse;
+
+        & .buttons {
+            flex-direction: column;
+        }
     }
 }
