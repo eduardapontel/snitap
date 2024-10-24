@@ -1,4 +1,4 @@
-# Skates Animation 🎨
+# Snitap 🛼
 This project showcases an animation involving skates that creates a dynamic and engaging user experience. The animation is built using HTML and CSS, and the design is fully responsive, adapting seamlessly to various screen sizes and devices.
 
 <br>
