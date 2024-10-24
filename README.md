@@ -35,7 +35,7 @@ The project is organized into the following structure:
 **Or** follow the steps below to run it locally:
 
 - Clone the repository:
-   ```bash git clone https://github.com/eduardapontel/skates-animation.git```
+   ```git clone https://github.com/eduardapontel/skates-animation.git```
 
 - Open `index.html` in your browser.
 
