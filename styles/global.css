@@ -11,7 +11,7 @@
     --snitap-sky-mid: #0686d4;
     --snitap-sky-light: #67e8f9;
     --snitap-joy-mid: #db2777;
-    --snitap-joy-light: #f47286;
+    --snitap-joy-light: #f472b6;
     --snitap-leaf-mid: #16a34a;
 
     --text: #000000;
@@ -24,6 +24,10 @@
     --text-base: 1rem;
     --text-lg: 2.5rem;
     --text-xl: 4rem;
+}
+
+html {
+    zoom: 0.5;
 }
 
 html,
