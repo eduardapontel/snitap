@@ -38,12 +38,12 @@ h2 {
 
 h1 {
     font-size: var(--text-xl);
-    line-height: 1.25rem;
+    line-height: 1.25;
 }
 
 h2 {
     font-size: var(--text-lg);
-    line-height: 1.2rem;
+    line-height: 1.2;
 }
 
 a {
