@@ -8,7 +8,7 @@ This project showcases an animation involving skates that creates a dynamic and 
 The layout for this project was created by Rocketseat using Figma. You can view the layout file and its components by visiting the following links: [Figma Layout](https://www.figma.com/community/file/1379866810042169871/lp-de-patins-animada).
 
 The layout showcases the structure, color scheme, and visual design of the recipe page, providing a clear reference for the development of the project.
-
+ 
 <br>
 
 ## Project Overview 📝
