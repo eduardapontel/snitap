@@ -44,7 +44,7 @@ The project is organized into the following structure:
 ## Contributing 🤝
 
 Feel free to contribute to this project by submitting issues or pull requests. Your feedback and suggestions are always welcome!
-
+ 
 <br>
 
 ## Notes 📌
