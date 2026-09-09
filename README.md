@@ -13,7 +13,7 @@ The layout showcases the structure, color scheme, and visual design of the webpa
 
 ## Project Overview 📝
 - Responsive Design: The layout adjusts across various screen sizes, ensuring a smooth experience on desktops, tablets, and mobile devices.
-- Animated Elements: Leveraging CSS animations to bring skates to life, the project features smooth transitions and dynamic visual effects.
+- Animated Elements: The project uses CSS animations to create smooth transitions and dynamic visual effects, making the overall experience more fluid and engaging.
 - User Interactions: Interactive elements such as hover effects enhance user engagement, making the experience more immersive.
 - Visually Appealing: The use of vibrant colors, gradient backgrounds, and fluid motion gives the project a modern and energetic feel.
 
@@ -49,5 +49,4 @@ Feel free to contribute to this project by submitting issues or pull requests. Y
 
 ## Notes 📌
 
-This page is static and does not include functionality for buttons or backend integration.
-
+This is a static front-end project created for demonstration purposes. This page does not include functionality for links, buttons or backend integration.
