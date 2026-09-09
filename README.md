@@ -9,7 +9,7 @@ The layout for this project was created by Rocketseat using Figma. You can view 
 
 The layout showcases the structure, color scheme, and visual design of the webpage, providing a clear reference for the development of the project.
  
-<br>
+<br> 
 
 ## Project Overview 📝
 - Responsive Design: The layout adjusts across various screen sizes, ensuring a smooth experience on desktops, tablets, and mobile devices.
