@@ -1,11 +1,11 @@
 # Snitap 🛼
-This project showcases an animation involving skates that creates a dynamic and engaging user experience. The animation is built using HTML and CSS, and the design is fully responsive, adapting seamlessly to various screen sizes and devices.
+This project features an animated showcase of a roller skate brand, creating a dynamic and engaging user experience. The animation is built using HTML and CSS, and the design is fully responsive, adapting seamlessly to various screen sizes and devices.
 
 <br>
 
 ## Layout ✏️
 
-The layout for this project was created by Rocketseat using Figma. You can view the layout file and its components by visiting the following links: [Figma Layout](https://www.figma.com/community/file/1379866810042169871/lp-de-patins-animada).
+The layout for this project was created by Rocketseat using Figma. You can view the layout file and its components by visiting the following link: [Figma Layout](https://www.figma.com/community/file/1379866810042169871/lp-de-patins-animada).
 
 The layout showcases the structure, color scheme, and visual design of the webpage, providing a clear reference for the development of the project.
  
