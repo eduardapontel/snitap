@@ -30,7 +30,7 @@ The project is organized into the following structure:
 
 ## How to Access the Project 🚀
 
-- Access it directly by clicking [here](https://eduardapontel.github.io/skates-animation/).
+- Access it directly by clicking [here](https://eduardapontel.github.io/snitap/).
 
 **Or** follow the steps below to run it locally:
 
